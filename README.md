@@ -9,8 +9,7 @@
 |20210110|学习使用GitHub Pages,windows下安装Hexo|
 |20210111|学习Hexo静态页面主题配置:theme下载后需要改yml中theme为文件夹的名称|
  <div align=center><img src="https://raw.githubusercontent.com/humanyp/StudyGit/main/pic/pic1.jpg" width=270 height=480/></div>
- <div align=center><img src="https://github.com/humanyp/StudyGit/blob/main/pic/pic1.jpg" width=540 height=960
- /></div>
+
 
 
 ## 比特币交易学习
