@@ -10,6 +10,9 @@
 |20210111|学习Hexo静态页面主题配置:theme下载后需要改yml中theme为文件夹的名称|
 <div align=center><img src="https://raw.githubusercontent.com/linux-downey/bloc_test/master/picture/Makedown/Makedown.png" width=200 height=120
  /></div>
+ <div align=center><img src=" https://github.com/humanyp/Python/blob/main/Word/test.jpg" width=200 height=120
+ /></div>
+
 
 ## 比特币交易学习
  * ### 什么是全仓模式？
